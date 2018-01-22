@@ -1,0 +1,16 @@
+/node_modules
+#/public
+/public/.htaccess
+/public/robots.txt
+/storage/*.key
+/vendor
+/.sass-cache
+/.tmp
+/.idea
+/.vagrant
+composer.lock
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
